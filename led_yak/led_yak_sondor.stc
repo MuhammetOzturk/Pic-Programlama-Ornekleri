@@ -1,0 +1,2 @@
+processor	p16f84
+load	led_yak_sondor.hex
