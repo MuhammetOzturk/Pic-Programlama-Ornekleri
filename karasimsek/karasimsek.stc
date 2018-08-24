@@ -1,3 +1,3 @@
 processor p16f84
-load ff.hex
+load karasimsek.hex
 frequency 1
