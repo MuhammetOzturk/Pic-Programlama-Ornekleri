@@ -1,0 +1,2 @@
+processor p16f84
+load '16bit_toplama_islemi.hex'
